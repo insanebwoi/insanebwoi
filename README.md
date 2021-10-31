@@ -1,4 +1,8 @@
+</p>
+<img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1027121/screenshots/15595587/media/85d0703130d0a616fe01b606d6f689c5.gif">
 
+
+</p>
 <h1 align="center">Hi 👋, I'm INSANE-BWOI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
