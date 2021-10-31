@@ -1,9 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-7352
-Fork on GitHub
-1435
 
 <h1 align="center">Hi 👋, I'm INSANE-BWOI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
