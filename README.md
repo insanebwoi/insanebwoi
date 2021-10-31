@@ -1,10 +1,10 @@
+![My card name](https://cardivo.vercel.app/api?name=INSANE%20-%20BOY&description=Hi,%20Welcome%20To%20My%20Profile&image=https://i.imgur.com/FN6AbHO.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=insaneboy.edits&github=insanebwoi&)
 </p>
-<img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1027121/screenshots/15595587/media/85d0703130d0a616fe01b606d6f689c5.gif">
-
-
 </p>
 <h2 align="center">Hi 👋, I'm INSANE-BOY</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1027121/screenshots/15595587/media/85d0703130d0a616fe01b606d6f689c5.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insanebwoi&label=Profile%20views&color=0e75b6&style=flat" alt="insanebwoi" /> </p>
 
