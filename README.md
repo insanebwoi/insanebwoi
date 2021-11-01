@@ -3,7 +3,7 @@
 </p>
 <h2 align="center">Hi 👋, I'm INSANE-BOY</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1027121/screenshots/15595587/media/85d0703130d0a616fe01b606d6f689c5.gif">
+<img align="center" alt="Coding" width="500" src="https://media2.giphy.com/media/qFw6AsQptpuzQ33Fjd/giphy.gif?cid=6c09b952d65a849d347feeab83b62850459c4e66cf9f4569&rid=giphy.gif&ct=g">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insanebwoi&label=Profile%20views&color=0e75b6&style=flat" alt="insanebwoi" /> </p>
