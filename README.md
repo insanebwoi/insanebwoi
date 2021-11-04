@@ -33,3 +33,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=insanebwoi&" alt="insanebwoi" /></p>
 
+<div align="center">
+
+ [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://gist.githubusercontent.com/insanebwoi)
+ 
