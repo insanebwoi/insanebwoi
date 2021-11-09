@@ -38,7 +38,5 @@
 ![GitHub metrics](https://metrics.lecoq.io/insanebwoi)  
 
 
- [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://gist.githubusercontent.com/insanebwoi)
- <p><img align="center" src="https://pagespeed-insights.herokuapp.com?url=https://github.com/insanebwoi" alt="insanebwoi" /></p>
-
+<p align="left"> <img src="https://pagespeed-insights.herokuapp.com?url=github.com/insanebwoi" alt="insanebwoi" /> </p>
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
