@@ -14,7 +14,6 @@
 
 
 
-
 🔭 I’m currently working on [Insane bot](https://github.com/insanebwoi/insane-bot-v1)
 
 <h3 align="left">Connect with me:</h3>
@@ -35,5 +34,10 @@
 
 <div align="center">
 
+
+![GitHub metrics](https://metrics.lecoq.io/insanebwoi)  
+
+
  [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://gist.githubusercontent.com/insanebwoi)
- 
+ <p><img align="center" src="https://pagespeed-insights.herokuapp.com?url=https://github.com/insanebwoi" alt="insanebwoi" /></p>
+
